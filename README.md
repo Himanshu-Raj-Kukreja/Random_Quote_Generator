@@ -1,4 +1,5 @@
-Random Quote Generator
+# Random_Quote_Generator
+
 This is a simple and fun project that shows a daily quote along with the name of the person who said it. Every time you click the "New Quote" button, the project fetches a fresh quote from the internet and changes the background to a new random color gradient. It's a nice way to get some daily inspiration!
 
 Features
